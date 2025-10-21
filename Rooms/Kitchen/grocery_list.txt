@@ -1,1 +1,5 @@
-Grocery_list
+Eggs
+Bread
+Milk
+Juice
+Cereal
