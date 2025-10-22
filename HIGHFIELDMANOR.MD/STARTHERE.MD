@@ -1,6 +1,6 @@
 Welcome, Detective.
 
-A terrible crime has taken place at Highfield Manor. Your team has been invited to investigate.
+Highfield Manor, an aging estate belonging to Reginald Ashcroft, who gathered his closest friends and staff for a dinner to announce updates to his will. By the end of the night, Ashcroft was found dead in his study. Your team has been invited to investigate.
 
 Rules:
 - Clone the repo & open your terminal. 
